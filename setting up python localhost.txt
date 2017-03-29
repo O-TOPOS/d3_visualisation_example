@@ -1,0 +1,10 @@
+http://chimera.labs.oreilly.com/books/1230000000345/ch04.html
+http://www.tecmint.com/python-simplehttpserver-to-create-webserver-or-serve-files-instantly/
+
+in command prompt
+python -m SimpleHTTPServer 8888 
+
+go to browser and type
+http://192.168.1.73:8000/
+
+go to main.html location
